@@ -1,10 +1,9 @@
 # ‼️ ‼️ ‼️ ‼️ DEPRECATED, please use https://github.com/cnpm/cnpmcore instead ‼️ ‼️ ‼️ ‼️
-# ‼️ ‼️ ‼️ ‼️ DEPRECATED, please use https://github.com/cnpm/cnpmcore instead ‼️ ‼️ ‼️ ‼️
-# ‼️ ‼️ ‼️ ‼️ DEPRECATED, please use https://github.com/cnpm/cnpmcore instead ‼️ ‼️ ‼️ ‼️
+
 
 ------
 
-cnpmjs.org
+dnpmjs.org
 =======
 
 [![npm version][npm-image]][npm-url]
