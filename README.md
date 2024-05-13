@@ -6,8 +6,7 @@
 dnpmjs.org
 =======
 
-[![npm version][npm-image]][npm-url]
-[![Node.js CI](https://github.com/cnpm/cnpmjs.org/actions/workflows/nodejs.yml/badge.svg)](https://github.com/cnpm/cnpmjs.org/actions/workflows/nodejs.yml)
+(https://github.com/cnpm/cnpmjs.org/actions/workflows/nodejs.yml)
 [![Test coverage][codecov-image]][codecov-url]
 [![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
