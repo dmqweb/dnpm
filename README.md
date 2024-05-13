@@ -21,7 +21,6 @@ dnpmjs.org
 [download-image]: https://img.shields.io/npm/dm/cnpmjs.org.svg?style=flat-square
 [download-url]: https://npmjs.org/package/cnpmjs.org
 
-![logo](https://raw.github.com/cnpm/cnpmjs.org/master/logo.png)
 
 ## Description
 
